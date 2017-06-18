@@ -1,7 +1,7 @@
-# DNS for penetration testers
+# DNS for Penetration Testers
 
 
-DNS for penetration testers talk given at Nullblr June 2017.
+DNS for Penetration Testers talk given at Nullblr June 2017.
 
 ## Overview
 

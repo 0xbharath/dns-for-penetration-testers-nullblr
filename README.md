@@ -12,3 +12,10 @@ DNS for penetration testers talk given at Nullblr June 2017.
 - DNSSEC intro.
 - Zone walking attack(NSEC,NSEC3).
 - Passive recon through public datasets.
+
+
+Use `reveal-md` to view the presentation:
+
+```
+
+```

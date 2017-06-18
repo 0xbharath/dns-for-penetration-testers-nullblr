@@ -3,6 +3,8 @@
 
 DNS for penetration testers talk given at Nullblr June 2017.
 
+## Overview
+
 - DNS explained.
 - DNS tools.
 - Information gathering through DNS records.
@@ -13,9 +15,10 @@ DNS for penetration testers talk given at Nullblr June 2017.
 - Zone walking attack(NSEC,NSEC3).
 - Passive recon through public datasets.
 
+## 
 
 Use `reveal-md` to view the presentation:
 
 ```
-
+https://raw.githubusercontent.com/yamakira/dns-for-penetration-testers-nullblr/master/dns-for-pen-testers.md
 ```
